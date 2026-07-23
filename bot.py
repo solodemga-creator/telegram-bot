@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
-TOKEN ="8902798363:AAGtFLpdcY_hJu7p19daq-nHKafBs3TdTBQ"
+TOKEN ="8902798363:AAFCanVj2Eyipw0V0_ksXi0mJiAgGRyaczg"6
 GRUPOS = [
     -5507814912,
     -1004341665928
